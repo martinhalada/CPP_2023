@@ -1,0 +1,57 @@
+﻿  camera.cpp
+  model.cpp
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(17,16): warning C4101: ID: neodkazovaná lokální proměnná
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(126,53): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(126,49): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(127,53): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(127,49): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(128,53): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(128,49): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(129,53): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(129,49): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(140,59): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(140,56): warning C4244: argument: float se převádí na _Tp; může dojít ke ztrátě dat.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\icp02\model.cpp(326,74): warning C4267: argument: Převod z: size_t na: GLsizei, může dojít ke ztrátě dat.
+  shaders.cpp
+  Generování kódu...
+  icp02.vcxproj -> C:\Users\Martin\Documents\ICP\final_project\ICP-projekt\x64\Debug\icp02.exe
